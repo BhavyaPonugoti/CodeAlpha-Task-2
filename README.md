@@ -62,3 +62,8 @@ def stock_tracker():
 
 # Run the tracker
 stock_tracker()
+
+result
+
+![CodeAlpha task 2](https://github.com/user-attachments/assets/8e436b87-4498-429d-b68b-a4dfd4ffead9)
+
